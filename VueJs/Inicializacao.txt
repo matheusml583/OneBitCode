@@ -1,0 +1,3 @@
+// crie o projeto na última versão do vue
+    npm init vue@latest
+
